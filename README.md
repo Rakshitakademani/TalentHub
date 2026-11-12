@@ -142,4 +142,16 @@ http://127.0.0.1:8000/docs
 
 Never upload passwords, tokens, or secret keys to GitHub.
 
-## 11.
+## 11. Expected Outcome
+
+TalentHub aims to provide an organized and accessible placement management platform that simplifies placement-related activities and improves information management.
+
+## 12. Project Information
+
+**Project Name:** TalentHub – Placement Management Portal
+
+**GitHub Repository:** https://github.com/Rakshitakademani/TalentHub
+
+---
+
+*TalentHub – Simplifying Campus Placement Management.*
